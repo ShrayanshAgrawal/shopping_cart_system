@@ -1,0 +1,17 @@
+[
+  {"product_id": "P001", "name": "Wireless Mouse", "category": "Electronics", "price": 599.0, "stock": 50},
+  {"product_id": "P002", "name": "Mechanical Keyboard", "category": "Electronics", "price": 2499.0, "stock": 30},
+  {"product_id": "P003", "name": "USB-C Charging Cable", "category": "Electronics", "price": 299.0, "stock": 100},
+  {"product_id": "P004", "name": "Bluetooth Headphones", "category": "Electronics", "price": 1899.0, "stock": 40},
+  {"product_id": "P005", "name": "27-inch Monitor", "category": "Electronics", "price": 12999.0, "stock": 15},
+  {"product_id": "P006", "name": "Cotton T-Shirt", "category": "Clothing", "price": 449.0, "stock": 80},
+  {"product_id": "P007", "name": "Denim Jeans", "category": "Clothing", "price": 1299.0, "stock": 60},
+  {"product_id": "P008", "name": "Running Shoes", "category": "Clothing", "price": 2799.0, "stock": 35},
+  {"product_id": "P009", "name": "Winter Jacket", "category": "Clothing", "price": 3499.0, "stock": 20},
+  {"product_id": "P010", "name": "Basmati Rice 5kg", "category": "Grocery", "price": 649.0, "stock": 120},
+  {"product_id": "P011", "name": "Olive Oil 1L", "category": "Grocery", "price": 899.0, "stock": 70},
+  {"product_id": "P012", "name": "Green Tea Pack", "category": "Grocery", "price": 199.0, "stock": 150},
+  {"product_id": "P013", "name": "Python Programming Book", "category": "Books", "price": 799.0, "stock": 45},
+  {"product_id": "P014", "name": "Data Structures Guide", "category": "Books", "price": 649.0, "stock": 55},
+  {"product_id": "P015", "name": "Notebook Set (3 pcs)", "category": "Stationery", "price": 249.0, "stock": 200}
+]
